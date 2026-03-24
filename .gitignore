@@ -1,0 +1,44 @@
+# --- Arquivos específicos do Unity ---
+/[Ll]ibrary/
+/[Tt]emp/
+/[Oo]bj/
+/[Bb]uild/
+/[Bb]uilds/
+/[Ll]ogs/
+/[Uu]ser[Ss]ettings/
+
+# --- Arquivos Gerados (Memory Profiler) ---
+/[Mm]emoryCaptures/
+
+# --- Arquivos de IDE (VS Code, Rider, Visual Studio) ---
+.vs/
+.idea/
+.vscode/
+*.csproj
+*.unityproj
+*.sln
+*.suo
+*.tmp
+*.user
+*.userprefs
+*.pidb
+*.booproj
+*.svd
+*.pdb
+*.mdb
+*.opendb
+*.VC.db
+
+# --- Arquivos de Sistema Operacional ---
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# --- Outros ---
+sysinfo.txt
+*.apk
+*.unitypackage
