@@ -1,0 +1,637 @@
+fileFormatVersion: 2
+guid: 8c0d1f4b1c489e9428b42ddaa5fbfad1
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -5108589938614143662
+    second: CardBack2_0
+  - first:
+      213: 5054936567627277816
+    second: CardBack2_1
+  - first:
+      213: -3367652189510600487
+    second: CardBack2_2
+  - first:
+      213: 1069817566556936453
+    second: CardBack2_3
+  - first:
+      213: -8750334976128656739
+    second: CardBack2_4
+  - first:
+      213: -6060545953372421348
+    second: CardBack2_5
+  - first:
+      213: -5770071389957664350
+    second: CardBack2_6
+  - first:
+      213: -2857003868656001178
+    second: CardBack2_7
+  - first:
+      213: 6456803616610382181
+    second: CardBack2_8
+  - first:
+      213: -6935564381774024885
+    second: CardBack2_9
+  - first:
+      213: -8775665790302220244
+    second: CardBack2_10
+  - first:
+      213: 342024737270926235
+    second: CardBack2_11
+  - first:
+      213: 5648626858050791653
+    second: CardBack2_12
+  - first:
+      213: 7211122563607465338
+    second: CardBack2_13
+  - first:
+      213: 5648644861410982270
+    second: CardBack2_14
+  - first:
+      213: 7982208029276510096
+    second: CardBack2_15
+  - first:
+      213: -2288768136482190908
+    second: CardBack2_16
+  - first:
+      213: 7494960297888507813
+    second: CardBack2_17
+  - first:
+      213: -974385439193989059
+    second: CardBack2_18
+  - first:
+      213: -1533832813375382870
+    second: CardBack2_19
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 1
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: CardBack2_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 372
+        width: 100
+        height: 191
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 255f4cd6484aa19b0800000000000000
+      internalID: -5108589938614143662
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CardBack2_1
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 317
+        width: 51
+        height: 126
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8f56e8ba60eb62640800000000000000
+      internalID: 5054936567627277816
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CardBack2_2
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 399
+        width: 149
+        height: 199
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9d8772d1d22b341d0800000000000000
+      internalID: -3367652189510600487
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CardBack2_3
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 393
+        width: 164
+        height: 205
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 509591d9861c8de00800000000000000
+      internalID: 1069817566556936453
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CardBack2_4
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 67
+        width: 130
+        height: 336
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d9adc2253b0909680800000000000000
+      internalID: -8750334976128656739
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CardBack2_5
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 256
+        width: 198
+        height: 342
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c134e48c09d94eba0800000000000000
+      internalID: -6060545953372421348
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CardBack2_6
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 67
+        width: 147
+        height: 255
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2a1dde854a69cefa0800000000000000
+      internalID: -5770071389957664350
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CardBack2_7
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 273
+        width: 86
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 66f97d65e12e958d0800000000000000
+      internalID: -2857003868656001178
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CardBack2_8
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 212
+        width: 63
+        height: 117
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 561f4800eac2b9950800000000000000
+      internalID: 6456803616610382181
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CardBack2_9
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 212
+        width: 63
+        height: 117
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b4fe183e0fcefbf90800000000000000
+      internalID: -6935564381774024885
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CardBack2_10
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 67
+        width: 116
+        height: 131
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c201d7d8572963680800000000000000
+      internalID: -8775665790302220244
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CardBack2_11
+      rect:
+        serializedVersion: 2
+        x: 235
+        y: 20
+        width: 113
+        height: 201
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b9b0e69bfad1fb400800000000000000
+      internalID: 342024737270926235
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CardBack2_12
+      rect:
+        serializedVersion: 2
+        x: 287
+        y: 131
+        width: 61
+        height: 141
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5e829de1334f36e40800000000000000
+      internalID: 5648626858050791653
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CardBack2_13
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 45
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a7d80a3f3cd031460800000000000000
+      internalID: 7211122563607465338
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CardBack2_14
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 34
+        width: 120
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e79bcbad294046e40800000000000000
+      internalID: 5648644861410982270
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CardBack2_15
+      rect:
+        serializedVersion: 2
+        x: 173
+        y: 38
+        width: 120
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0971c4c39ef76ce60800000000000000
+      internalID: 7982208029276510096
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CardBack2_16
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 0
+        width: 58
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4c90fbb9189ac30e0800000000000000
+      internalID: -2288768136482190908
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CardBack2_17
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 0
+        width: 61
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5a7ec415ea2730860800000000000000
+      internalID: 7494960297888507813
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CardBack2_18
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 0
+        width: 59
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d3087860b994a72f0800000000000000
+      internalID: -974385439193989059
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CardBack2_19
+      rect:
+        serializedVersion: 2
+        x: 268
+        y: 0
+        width: 57
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aaa1cedce2bb6bae0800000000000000
+      internalID: -1533832813375382870
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      CardBack2_0: -5108589938614143662
+      CardBack2_1: 5054936567627277816
+      CardBack2_10: -8775665790302220244
+      CardBack2_11: 342024737270926235
+      CardBack2_12: 5648626858050791653
+      CardBack2_13: 7211122563607465338
+      CardBack2_14: 5648644861410982270
+      CardBack2_15: 7982208029276510096
+      CardBack2_16: -2288768136482190908
+      CardBack2_17: 7494960297888507813
+      CardBack2_18: -974385439193989059
+      CardBack2_19: -1533832813375382870
+      CardBack2_2: -3367652189510600487
+      CardBack2_3: 1069817566556936453
+      CardBack2_4: -8750334976128656739
+      CardBack2_5: -6060545953372421348
+      CardBack2_6: -5770071389957664350
+      CardBack2_7: -2857003868656001178
+      CardBack2_8: 6456803616610382181
+      CardBack2_9: -6935564381774024885
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
